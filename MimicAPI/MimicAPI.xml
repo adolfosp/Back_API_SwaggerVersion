@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MimicAPI</name>
+    </assembly>
+    <members>
+        <member name="M:MimicAPI.V1.Controllers.PalavrasController.ObterTodasPalavras(MimicAPI.Helpers.PalavraUrlQuery)">
+            <summary>
+            Obtém todas as palavras 
+            </summary>
+            <param name="query"></param>
+            <returns>Retorna uma lista de palavras</returns>
+        </member>
+        <member name="M:MimicAPI.V1.Controllers.PalavrasController.ObterApenasUmaPalavra(System.Int32)">
+            <summary>
+            Obtém apenas uma palavra 
+            </summary>
+            <param name="id">Filtro para achar uma palavra específica</param>
+            <returns>Listagem de palavra</returns>
+        </member>
+        <member name="M:MimicAPI.V1.Controllers.PalavrasController.CadastrarPalavras(MimicAPI.V1.Models.Palavra)">
+            <summary>
+            Cadastra uma palavra
+            </summary>
+            <param name="palavra">Objeto de palavra</param>
+            <returns>Retorna a palavra criada</returns>
+        </member>
+        <member name="M:MimicAPI.V1.Controllers.PalavrasController.AtualizarPalavra(System.Int32,MimicAPI.V1.Models.Palavra)">
+            <summary>
+            Atualiza uma palavra
+            </summary>
+            <param name="id">Id para encontrar a palavra</param>
+            <param name="palavra">Objeto palavra com as informações para atualizar</param>
+            <returns></returns>
+        </member>
+        <member name="M:MimicAPI.V1.Controllers.PalavrasController.DeletarPalavra(System.Int32)">
+            <summary>
+            Deleta uma palavra
+            </summary>
+            <param name="id">Id para encontrar qual palavra irá ser desativada do banco</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
