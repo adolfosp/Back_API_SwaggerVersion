@@ -50,6 +50,7 @@ namespace MimicAPI
 
             services.AddSwaggerGen(c =>
             {
+                c.SchemaFilter<EnumSchemaFilter>();
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
                 {
                     Version = "v1",
@@ -68,6 +69,7 @@ namespace MimicAPI
                     Title = "Awesome CMS Core API V2",
                     
                 });
+ 
                 var caminhoPorjeto = PlatformServices.Default.Application.ApplicationBasePath;
                 var nomeProjeto = $"{PlatformServices.Default.Application.ApplicationName}.xml";
                 var caminhoTotalDoArquivo = Path.Combine(caminhoPorjeto, nomeProjeto);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HcGWfDg/Wzs3eFth5KiDH/zIzN6VaHEewpgyu3yrgJ1K1JonZv+2TikK0HU99/Y/a/tk6fQupkySSOU65KLhrg==",
+  "dgSpecHash": "m/8drjg5QJg0FzfKSqykRoF0J44JibqE8guUWp52NWCLyalkFfb8QFsnsX0Ehs5xyGUb6weoi4Mi/TUgFTc/Qw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Adolfo\\source\\repos\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
+  "projectFilePath": "C:\\Users\\Adolfo\\source\\repos\\API_SwaggerVersion\\MimicAPI\\MimicAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Adolfo\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Adolfo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

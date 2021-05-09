@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adolfo\\source\\repos\\MimicAPI\\MimicAPI\\MimicAPI.csproj": {}
+    "C:\\Users\\Adolfo\\source\\repos\\API_SwaggerVersion\\MimicAPI\\MimicAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adolfo\\source\\repos\\MimicAPI\\MimicAPI\\MimicAPI.csproj": {
+    "C:\\Users\\Adolfo\\source\\repos\\API_SwaggerVersion\\MimicAPI\\MimicAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adolfo\\source\\repos\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Adolfo\\source\\repos\\API_SwaggerVersion\\MimicAPI\\MimicAPI.csproj",
         "projectName": "MimicAPI",
-        "projectPath": "C:\\Users\\Adolfo\\source\\repos\\MimicAPI\\MimicAPI\\MimicAPI.csproj",
+        "projectPath": "C:\\Users\\Adolfo\\source\\repos\\API_SwaggerVersion\\MimicAPI\\MimicAPI.csproj",
         "packagesPath": "C:\\Users\\Adolfo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adolfo\\source\\repos\\MimicAPI\\MimicAPI\\obj\\",
+        "outputPath": "C:\\Users\\Adolfo\\source\\repos\\API_SwaggerVersion\\MimicAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
